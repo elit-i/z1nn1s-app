@@ -1,0 +1,24 @@
+{
+  "name": "2-shatess-1",
+  "version": "1.0.0",
+  "description": "shatess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/2-shatess-1.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/2-shatess-1/issues"
+  },
+  "homepage": "https://github.com/elit-i/2-shatess-1#readme",
+  "dependencies": {
+    "asoakedacorn": "^1.0.0",
+    "gnyac": "^1.0.0",
+    "sunehundapp": "^1.0.3"
+  }
+}

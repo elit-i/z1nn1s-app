@@ -1,0 +1,26 @@
+{
+  "name": "vqernale-2w1q",
+  "version": "1.0.0",
+  "description": "vqernale-2w1q-vqernale-2w1q",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/vqernale-2w1q.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/vqernale-2w1q/issues"
+  },
+  "homepage": "https://github.com/elit-i/vqernale-2w1q#readme",
+  "dependencies": {
+    "2-shatess-1": "^1.0.0",
+    "jengoaaaa": "^1.0.0",
+    "orentin0-ojo3": "^1.0.0",
+    "stastan-p1r-ye": "^1.0.0",
+    "sunehundapp": "^1.0.3"
+  }
+}

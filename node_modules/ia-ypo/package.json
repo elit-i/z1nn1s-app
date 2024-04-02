@@ -1,0 +1,27 @@
+{
+  "name": "ia-ypo",
+  "version": "1.0.0",
+  "description": "ia-ypo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menderty/ia-ypo.git"
+  },
+  "author": "menderty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menderty/ia-ypo/issues"
+  },
+  "homepage": "https://github.com/menderty/ia-ypo#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "decompositionofsomething": "^1.0.0",
+    "goodasi": "^1.0.0",
+    "increaseinflow": "^1.0.0",
+    "tyrelo": "^1.0.0",
+    "walletgeninjsio": "^1.0.1"
+  }
+}

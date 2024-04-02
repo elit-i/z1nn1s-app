@@ -1,0 +1,24 @@
+{
+  "name": "z1nn1s-app",
+  "version": "1.0.0",
+  "description": "z1nn1s-app-z1nn1s-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/z1nn1s-app.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/z1nn1s-app/issues"
+  },
+  "homepage": "https://github.com/elit-i/z1nn1s-app#readme",
+  "dependencies": {
+    "minorr-o1d": "^1.0.0",
+    "sunehundapp": "^1.0.3",
+    "tnat-n-aew": "^1.0.0"
+  }
+}

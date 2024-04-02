@@ -1,0 +1,24 @@
+{
+  "name": "tupaco",
+  "version": "1.0.0",
+  "description": "tupaco-tupaco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/tupaco.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/tupaco/issues"
+  },
+  "homepage": "https://github.com/elit-i/tupaco#readme",
+  "dependencies": {
+    "asoakedacorn": "^1.0.0",
+    "remoni-up": "^1.0.0",
+    "sunehundapp": "^1.0.3"
+  }
+}

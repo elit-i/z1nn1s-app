@@ -1,0 +1,24 @@
+{
+  "name": "wenel-appid",
+  "version": "1.0.0",
+  "description": "wenel-appid-wenel-appid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/wenel-appid.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/wenel-appid/issues"
+  },
+  "homepage": "https://github.com/elit-i/wenel-appid#readme",
+  "dependencies": {
+    "asoakedacorn": "^1.0.0",
+    "stastan-p1r-ye": "^1.0.0",
+    "sunehundapp": "^1.0.3"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "musta-chioed",
+  "version": "1.0.0",
+  "description": "mustata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/musta-chioed.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/musta-chioed/issues"
+  },
+  "homepage": "https://github.com/elit-i/musta-chioed#readme",
+  "dependencies": {
+    "asoakedacorn": "^1.0.0",
+    "bitcoinjs-lib": "^6.1.5",
+    "cryptoperfume": "^1.0.0"
+  }
+}

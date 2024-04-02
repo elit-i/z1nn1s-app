@@ -1,0 +1,19 @@
+{
+  "name": "asoakedacorn",
+  "version": "1.0.0",
+  "description": "asoasoasoasoasoasoasoasoasoasoasoasoasoa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/asoakedacorn.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/asoakedacorn/issues"
+  },
+  "homepage": "https://github.com/elit-i/asoakedacorn#readme"
+}

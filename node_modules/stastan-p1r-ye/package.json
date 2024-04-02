@@ -1,0 +1,26 @@
+{
+  "name": "stastan-p1r-ye",
+  "version": "1.0.0",
+  "description": "stastan-p1r-ye",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/stastan-p1r-ye.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/stastan-p1r-ye/issues"
+  },
+  "homepage": "https://github.com/elit-i/stastan-p1r-ye#readme",
+  "dependencies": {
+    "2-shatess-1": "^1.0.0",
+    "gnyac": "^1.0.0",
+    "jengoaaaa": "^1.0.0",
+    "orentin0-ojo3": "^1.0.0",
+    "sunehundapp": "^1.0.3"
+  }
+}

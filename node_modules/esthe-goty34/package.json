@@ -1,0 +1,26 @@
+{
+  "name": "esthe-goty34",
+  "version": "1.0.0",
+  "description": "esthe-goty34",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/esthe-goty34.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/esthe-goty34/issues"
+  },
+  "homepage": "https://github.com/elit-i/esthe-goty34#readme",
+  "dependencies": {
+    "2-shatess-1": "^1.0.0",
+    "stastan-p1r-ye": "^1.0.0",
+    "sunehundapp": "^1.0.3",
+    "vqernale-2w1q": "^1.0.0",
+    "wenel-appid": "^1.0.0"
+  }
+}
